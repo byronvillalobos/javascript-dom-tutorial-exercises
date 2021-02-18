@@ -8,6 +8,7 @@ document.querySelector("#myDiv").appendChild(elem);
 var elem2 = document.createElement("P");
 elem2.style.color = yellow;
 
-elem2.innerHTML = "Hello World";
-elem2.style.color = "yellow";
+elem2.innerHTML = "Hello World2";
 document.querySelector("#myDiv").appendChild(elem2);
+
+
