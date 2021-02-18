@@ -1,4 +1,4 @@
 #wulu {
 	background: blue;
-	float: left;
+	display: inline-block;
 }
